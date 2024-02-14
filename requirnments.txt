@@ -1,0 +1,8 @@
+pandas
+seaborn
+numpy
+matplotlib
+xgboost
+scikit-learn == 1.0.2
+catboost
+dill
